@@ -1,2 +1,1 @@
-# SurveyAnalysisDemo
-Demonstration of the use of R to perform a basic survey response analysis
+This is a demonstration of a basic analysis of the responses to one question of a hypothetical survey. This will show the use of R, as well as R packages `dplyr`, `ggplot2`, `gridExtra`, and `RColorBrewer`.
